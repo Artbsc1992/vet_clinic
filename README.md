@@ -2,6 +2,11 @@
 
 > This Database project will help veterinarians access all patient's details.
 
+## add database schema diagram
+
+![Diagrama ER de base de datos (pata de gallo)](https://user-images.githubusercontent.com/40554384/178541919-fae439ec-ad92-4c11-a238-b3b3eb62fab0.png)
+
+
 
 ## Getting Started
 
